@@ -108,3 +108,6 @@ Features a clean-up mechanism to delete test data post-testing, ensuring a clean
 Example of execution report:
 ![Screenshot 2024-03-26 203624.png](..%2F..%2F..%2FUsers%2FOlena%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202024-03-26%20203624.png)
 
+Failure screenshots are attached to cucumber reports:
+![Screenshot 2024-03-26 203707.png](..%2F..%2F..%2FUsers%2FOlena%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202024-03-26%20203707.png)
+
