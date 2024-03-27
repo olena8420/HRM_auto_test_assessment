@@ -106,8 +106,9 @@ CLEAN-UP
 Features a clean-up mechanism to delete test data post-testing, ensuring a clean state.
 
 Example of execution report:
-![Screenshot 2024-03-26 203624.png](..%2F..%2F..%2FUsers%2FOlena%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202024-03-26%20203624.png)
+![Screenshot 2024-03-26 203624](https://github.com/olena8420/HRM_auto_test_assessment/assets/164921889/c57ff12b-967d-42ae-aa9f-9722ffd4b6a5)
+
 
 Failure screenshots are attached to cucumber reports:
-![Screenshot 2024-03-26 203707.png](..%2F..%2F..%2FUsers%2FOlena%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202024-03-26%20203707.png)
+![Screenshot 2024-03-26 203707](https://github.com/olena8420/HRM_auto_test_assessment/assets/164921889/590b01df-e9e4-49ba-846c-4369def206ff)
 
