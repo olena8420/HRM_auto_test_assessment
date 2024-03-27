@@ -1,5 +1,20 @@
 # HRM automation test assessment
 
+Initial technical interview  assessment:
+1. Login Test:
+    - Navigates to the: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+    - Performs login using credentials stored in an ui-config.properties.file
+2. Add User/Candidate Test:
+    - Navigates to the recruitment section
+    - Adds a new candidate or user with sample data using Excel file
+    - Verifies successful addition
+3. Verify User/Candidate Details Test:
+    - Verify that the actual details of newly added candidate is equal to expected details
+4. Project Time Report Test:
+    - Navigates to the "Time reports" section
+    - Queries for "Apache Software Foundation - ASF - Phase 1" within the specified time frame
+    - Validates the listing of specific activities
+
 **Introduction**: 
 This is a hybrid test automation framework designed for UI testing. 
 It incorporates Data Driven and Behavior Driven Development approaches.
